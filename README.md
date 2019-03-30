@@ -8,5 +8,5 @@
 双方都说的
 wo shi you.
 hello_word.
-
+今天是30日，是第二次。
 
